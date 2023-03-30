@@ -24,5 +24,4 @@ jobs:
         enable_jekyll: false
         allow_empty_commit: false
         force_orphan: true
-        cname: funmmer.github.io/
         commit_message: Publish compiled binary
